@@ -19,7 +19,7 @@ body {
 .container {
     border: 1px solid darkslategray;
     width: 50%;
-    height: 300px;
+    height: 400px;
     text-align: center;
     border-radius: 50px;
     background-color: #fff;
@@ -38,12 +38,13 @@ p {
 
 button {
     color: #fff;
-    width: 150px;
+    width: 30%;
     height: 40px;
     background-color: goldenrod;
     border: none;
     border-radius: 40px;
     font-weight: bold;
+    margin-top: 10px;
 }
 button:active {
     background-color: gold;
